@@ -1,0 +1,7 @@
+{
+  "name": "JK Makeup Artistry",
+  "description": "A high-end, luxury one-page portfolio for a premium bridal and celebrity makeup brand featuring an editorial aesthetic and an integrated admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
